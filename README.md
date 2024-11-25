@@ -28,10 +28,17 @@ graph LR
 ## Enterprise Priorities for Open-Source Adoption
 
 ```mermaid
-bar title Key Factors Driving Enterprise Open-Source Adoption
-    Control : 37
-    Customizability : 37
-    Cost : 26
+graph TD
+    title[Key Factors Driving Enterprise Open-Source Adoption]
+    subgraph Percentages
+    A[Control 37%]
+    B[Customizability 37%]
+    C[Cost 26%]
+    end
+    style title fill:#fff,stroke:#fff
+    style A fill:#36A2EB
+    style B fill:#FF6384
+    style C fill:#FFCE56
 ```
 
 ## Performance Comparison (2024)
