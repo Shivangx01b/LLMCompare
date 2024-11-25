@@ -3,7 +3,7 @@
 ## Market Adoption Trends (2024)
 
 ```mermaid
-pie title Enterprise Plans for Open-Source LLM Adoption
+pie title                    Enterprise Plans for Open-Source LLM Adoption
     "Will Increase Usage" : 41
     "Will Switch When Performance Matches" : 41
     "No Plans to Increase" : 18
